@@ -1,0 +1,14 @@
+.slide-product-row {
+    display: flex;
+    align-items: center;
+}
+.slide-product-img {
+    width: 265px;
+    height: 250px;
+    margin: 0 11px;
+}
+.next {
+    width: 50px;
+    height: 50px;
+    border: none;
+}

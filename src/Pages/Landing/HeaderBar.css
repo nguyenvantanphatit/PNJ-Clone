@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+.header-1 {
+    display: flex;
+    align-items: center;
+}
+.header-img {
+    width: 19px;
+    height: 19px;
+    margin: 0 10px;
+}
+.header-img-pnj {
+    width: 99px;
+    height: 49px;
+}
+.header-text {
+    font-size: 13px;
+}
+.header-2 {
+    display: flex;
+    align-items: center;
+    margin: 0 227px;
+}
+.header-3 {
+    display: flex;
+    align-items: center;
+}
+.oclock {
+    margin-right: 10px;
+}

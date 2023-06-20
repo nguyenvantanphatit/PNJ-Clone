@@ -1,0 +1,14 @@
+.slide-2-row {
+    display: flex;
+    align-items: center;
+}
+.slide-2-img {
+    width: 150px;
+    height: 150px;
+    margin: 0 13px;
+}
+.next {
+    width: 50px;
+    height: 50px;
+    border: none;
+}

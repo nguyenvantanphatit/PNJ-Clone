@@ -1,0 +1,25 @@
+.slide-shop1-h2 {
+  position: relative;
+  background: #003468;
+  height: 150px;
+}
+.slide-shop1-h2 h2{
+  text-align: center;
+  color: white;
+} 
+.slide-shop1-img {
+  position: absolute;
+  display: flex;
+ bottom: -170px;
+ margin-left: 300px;
+}
+.slide-shop1-img img {
+  margin: 0 80px;
+  width: 100px;
+  height: 100px;
+}
+.slide-shop1-desc {
+  width: 15%;
+  text-align: center;
+  margin: 0 50px;
+}

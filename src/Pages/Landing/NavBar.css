@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    align-items: center;
+}
+.navbar-1 {
+    display: flex;
+}
+.navbar-text {
+    font-size: 15px;
+}
+.navbar-p {
+    font-size: 15px;
+    margin-right: 61px;
+}
+.navbar-p:last-of-type {
+    color: #ac2b36;
+  }
+.navbar-search {
+    border-radius: 15px;
+    width: 308px;
+}

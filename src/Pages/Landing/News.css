@@ -1,0 +1,11 @@
+.news-button {
+    display: flex;
+    justify-content: center;
+}
+  
+  .news-button button {
+    width: 100%;
+    max-width: 200px;
+    margin-left: 500px;
+  }
+  

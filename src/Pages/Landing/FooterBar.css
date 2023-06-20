@@ -1,0 +1,29 @@
+.img-pnj {
+    width: 200px;
+    height: 87px;
+}
+
+.img-connec {
+    width: 35px;
+    height: 35px;
+    margin-right: 20px;
+}
+
+.img-payment {
+    width: 35px;
+    height: 22px;
+    margin-right: 20px;
+}
+
+.img-chungnhan {
+    width: 115px;
+    height: 37px;
+}
+
+h4 {
+    font-size: 13px;
+}
+
+p {
+    font-size: 12px;
+}

@@ -1,0 +1,20 @@
+.slide-shop-row {
+  position: relative;
+  text-align: center;
+}
+
+.slide-shop-row p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.slide-shop-row img {
+  width: 100%;
+  height: auto;
+}

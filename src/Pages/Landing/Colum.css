@@ -1,0 +1,15 @@
+.colum-row {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .colum-col {
+    margin-right: 29px;
+    flex: 0 0 calc(33.3333% - 29px);
+    white-space: nowrap;
+  }
+  
+  .colum-col:last-child {
+    margin-right: 0;
+  }
+  
